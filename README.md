@@ -22,10 +22,10 @@ API 배포를 위해 모듈화 된 코드는 아래 레포지토리에서 볼 �
 >>2. set을 이용해 중복 댓글을 제거했다.
 >>3. utf-16 인코딩 해 csv 파일로 저장했다.(이모티콘과 같은 특수문자의 경우, utf-8을 이용하면 범위 초과가 나온다.)
 *requirements :
-- Beautiful soup (html 문서 크롤링 대장)
-- Selenium (webDriver 기능이 있어 iframe 내에 형성된 html 문서를 크롤링 할 수 있다.)
-- chromium-chromedriver (크롬 브라우저에서 크롤링 시 셀레니움과 함께 사용됨)
-- Pandas (크롤링 된 데이터를 csv 파일로 저장)
+  - Beautiful soup (html 문서 크롤링 대장)
+  - Selenium (webDriver 기능이 있어 iframe 내에 형성된 html 문서를 크롤링 할 수 있다.)
+  - chromium-chromedriver (크롬 브라우저에서 크롤링 시 셀레니움과 함께 사용됨)
+  - Pandas (크롤링 된 데이터를 csv 파일로 저장)
 
 
 
