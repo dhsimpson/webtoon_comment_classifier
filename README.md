@@ -7,7 +7,7 @@
 c.f.) 본 프로젝트는 KAU 4차산업혁명 공모전을 위한 ML 모델 Back End 개발과정 설명을 위한 쥬피터 노트북 입니다.
 API 배포를 위해 모듈화 된 코드는 아래 레포지토리에서 볼 수 있습니다.(아직 모듈화 하지 않음)
 
-[웹툰플랫폼] : https://github.com/gyu-young-park/WebToonPlatforn_DS
+![웹툰플랫폼] : https://github.com/gyu-young-park/WebToonPlatforn_DS
 
 큰 기능은 두 가지로 구분된다.
 -
